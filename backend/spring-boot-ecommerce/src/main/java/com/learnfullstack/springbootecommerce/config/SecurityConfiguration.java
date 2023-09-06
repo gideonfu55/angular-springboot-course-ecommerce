@@ -9,8 +9,6 @@ import org.springframework.web.accept.HeaderContentNegotiationStrategy;
 
 import com.okta.spring.boot.oauth.Okta;
 
-// import com.okta.spring.boot.oauth.Okta;
-
 @Configuration
 public class SecurityConfiguration {
 
